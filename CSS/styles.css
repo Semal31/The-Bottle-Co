@@ -22,3 +22,41 @@
   padding-left: 300px;
   padding-right: 260px;
 }
+
+.hydro {
+  height: 417px;
+  width: 50%;
+}
+
+.custom {
+  height: 45%;
+  width: 45%;
+}
+
+.footer {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  letter-spacing: 1px;
+  position: absolute;
+  right: 7px;;
+  bottom: 7px;;
+  left: 7px;;
+  padding: 1rem;
+  background-color: #333;
+  text-align: center;
+  color: #FFFF;
+}
+
+.footer a {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: #00f6f6;
+  transition: all ease-in-out 250ms;
+}
+
+.footer a:active {
+  color: #FFF;
+}
